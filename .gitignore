@@ -1,0 +1,9 @@
+# Model
+model/*.onnx
+
+# Lib opencv
+opencv/
+opencv_contrib/
+
+# File cache
+Makefile
