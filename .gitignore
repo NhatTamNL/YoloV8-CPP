@@ -7,3 +7,4 @@ opencv_contrib/
 
 # File cache
 Makefile
+.vscode

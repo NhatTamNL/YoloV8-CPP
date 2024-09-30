@@ -26,6 +26,13 @@ set(PROJECT_SOURCES
 
     src/inference.h
     src/inference.cpp
+    
+    src/region_counting.h
+    src/region_counting.cpp
+
+    src/channel.h
+    src/channel.cpp
+
 )
 
 add_executable(Yolov8CPPInference ${PROJECT_SOURCES})
